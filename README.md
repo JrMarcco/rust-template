@@ -14,3 +14,8 @@ pip install pre-commit
 # or
 pipx install pre-commit
 ```
+
+### Usage
+```shell
+cargo generate jrmarcco/rust-template
+```
