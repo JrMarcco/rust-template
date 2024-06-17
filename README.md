@@ -6,7 +6,7 @@ A rust project template.
 ```shell
 cargo install cargo-generate
 
-cargo install --locked cargo-deny
+cargo install cargo-deny
 
 cargo install git-cliff
 
