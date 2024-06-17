@@ -10,6 +10,9 @@ cargo install cargo-deny
 
 cargo install git-cliff
 
+# 代码量统计
+caego install tokei
+
 pip install pre-commit
 # or
 pipx install pre-commit
