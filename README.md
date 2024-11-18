@@ -10,6 +10,9 @@ cargo install cargo-deny
 
 cargo install git-cliff
 
+# 拼写检查
+cargo install typos-cli
+
 # 代码量统计
 caego install tokei
 
