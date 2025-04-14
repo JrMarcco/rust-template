@@ -12,9 +12,13 @@ cargo install git-cliff
 
 # 拼写检查
 cargo install typos-cli
+# or
+brew install typos-cli
 
 # 代码量统计
 caego install tokei
+# or
+brew install tokei
 
 pip install pre-commit
 # or
